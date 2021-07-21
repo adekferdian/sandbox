@@ -54,7 +54,7 @@ function App() {
     setStudentNumber("")
     setStudentName("")
     setBirthPlace("")
-    setBirthDate("")
+    setBirthDate("");
     setHomeAddress("")
     setHomePhoneNumber("")
     setMobileNumber("")
